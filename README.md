@@ -1,6 +1,7 @@
 # Responisve wep page
 PC, 태블릿, 모바일 세 가지 디바이스 화면 사이즈에 따라 반응하는 웹사이트 입니다.\
 가수 Mac miller의 앨범 'circles'의 가상 홍보 페이지 입니다.
+- html5, css3, jQuery
 
 ## demo
 [웹사이트 보기](https://eungyeongcha.github.io/responsive_wep_macmiller/)
